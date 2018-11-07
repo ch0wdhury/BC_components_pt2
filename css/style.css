@@ -1,0 +1,31 @@
+.search-custom {
+	width: 400px!important;
+}
+.custom_indicator li {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: rgba(1,1,1,.5);
+}
+.custom_indicator .active {
+	background-color: purple;
+}
+.bottom_banner {
+	background-image: url(../images/c1.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.custom_banner {
+	background-color: rgba(1,1,1,.5);
+	color: white;
+	padding: 200px 70px;
+}
+.cust_indic li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: rgba(1,1,1,.5);
+}
+.cust_indic .active {
+	background-color: red;
+}
